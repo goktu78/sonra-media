@@ -12,3 +12,11 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | 2026-11-22 | 2026-11-22-A (ElevenLabs mix) | Skeç: "Gece 2'de makarna tarifi kaydettim… 3 ay sonra" + gerçek paylaş menüsü ve Keşfet ekranı | TR | ElevenLabs Deniz + ElevenLabs Music |
 | 2026-11-22 | 2026-11-22-B (ElevenLabs mix) | Skeç: "O kafe neydi?" mesajlaşma + galeri + gerçek Sonra arama ekranı | TR | ElevenLabs Deniz + ElevenLabs Music |
 | 2026-11-22 | 2026-11-22-C (ElevenLabs mix) | Gündem: "Black Friday belgeseli" — sepet avcıları, TÜKENDİ, gerçek paylaş menüsü + Satın Al | TR | ElevenLabs Deniz Sab + ElevenLabs Music |
+
+## Müzik kütüphanesi (ElevenLabs Music, telifsiz)
+
+| generation_id | Tarz | Son kullanım |
+|---|---|---|
+| jVVTd6dUhniCmeIi7rsV | Komik pizzicato, sitcom montajı | 2026-11-22 |
+| DtOagZRUiP1uLoN23BSy | Gerilimli-komik → neşeli gitar | 2026-11-22 |
+| wxnUbsNX1Sui0pklLm1C | Belgesel orkestral → neşeli | 2026-11-22 |

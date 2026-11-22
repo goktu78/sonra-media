@@ -11,3 +11,4 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | 2026-11-22 | 2026-11-22-3.mp4 | Özellik: Keşfet "What can I do? / 15 minutes" | EN | Seslendirme (TR: Piper fahrettin / EN: Kokoro) + FluidR3 gerçek enstrüman müzik |
 | 2026-11-22 | 2026-11-22-A (ElevenLabs mix) | Skeç: "Gece 2'de makarna tarifi kaydettim… 3 ay sonra" + gerçek paylaş menüsü ve Keşfet ekranı | TR | ElevenLabs Deniz + ElevenLabs Music |
 | 2026-11-22 | 2026-11-22-B (ElevenLabs mix) | Skeç: "O kafe neydi?" mesajlaşma + galeri + gerçek Sonra arama ekranı | TR | ElevenLabs Deniz + ElevenLabs Music |
+| 2026-11-22 | 2026-11-22-C (ElevenLabs mix) | Gündem: "Black Friday belgeseli" — sepet avcıları, TÜKENDİ, gerçek paylaş menüsü + Satın Al | TR | ElevenLabs Deniz Sab + ElevenLabs Music |

@@ -199,7 +199,7 @@ def write_wav(path, data):
 def assemble(scene_files, wav, out):
     lst = out + ".txt"
     with open(lst, "w") as f:
-        for s in scene_files: f.write(f"file '{s}'\n")
+        for s in scene_files: f.write(f"file '{os.path.abspath(s)}'\n")
     tmpv = out[:-4] + ".v.mp4"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", tmpv], check=True)
     tmp = out[:-4] + ".tmp.mp4"

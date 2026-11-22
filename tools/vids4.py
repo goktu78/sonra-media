@@ -7,16 +7,16 @@ def D(v): return round((v + 0.6) * 30) / 30
 
 A_TXT = ["Saat gece ikiyi geçiyor ve ben bir makarna tarifi kaydediyorum. Çünkü yarın kesin yapacağım.",
          "Üç ay sonra.", "Bin iki yüz seksen dört kayıt. Makarna yok. Umut da yok.",
-         "Neyse ki artık paylaş diyorum, Sonra'ya kaydet. Tarif kendiliğinden Yap listesine düşüyor.",
+         "Neyse ki artık paylaş diyorum, Sonraya kaydet. Tarif kendiliğinden Yap listesine düşüyor.",
          "Canım sıkılınca da on beş dakikam var diyorum ve kendi kaydettiklerimden birini önüme koyuyor.",
          "Sonra. Kaydettiğini, gerçekten yap."]
-A_VO = [6.8, 1.84, 5.36, 6.8, 6.08, 3.28]
+A_VO = [6.8, 1.84, 5.36, 6.48, 6.08, 3.28]
 B_TXT = ["Arkadaşın soruyor: Geçen attığın o kafe neydi ya?", "Sen: Dur bakıyorum. Ve galeriye giriyorsun.",
          "Kırk yedi saniye sonra hâlâ Kapadokya tatilinden kalma bir ekran görüntüsündesin.",
          "Boşver, başka yere oturduk. Klasik.",
-         "Oysa Sonra'da kafe yazsan, bir saniyede karşında. Mekan linkleri zaten kendiliğinden Git listesinde.",
+         "Oysa Sonrada kafe yazsan, bir saniyede karşında. Mekan linkleri zaten kendiliğinden Git listesinde.",
          "Sonra. Kaydet, kaybetme."]
-B_VO = [4.88, 3.92, 5.6, 3.84, 7.44, 2.8]
+B_VO = [4.88, 3.92, 5.6, 3.84, 7.28, 2.8]
 
 def A():
     S = []
@@ -127,6 +127,82 @@ def B():
     S.append((D(B_VO[5]) + 1.0, lambda t: end_card(t, "Kaydet, kaybetme.")))
     return S
 
+
+C_TXT = ["Kasım ayı. İnsanoğlu, Black Friday'e beş gün kala sepetini hazırlamaya başlar.",
+         "Ama önce, aylardır sonra alırım dediği ürünleri bulması gerekir.",
+         "Ekran görüntüleri, kaydedilenler, kendine attığı linkler. Hiçbiri bulunamaz.",
+         "Ve indirim biter. Ürün tükenmiştir.",
+         "Akıllı olanlar ise linki paylaşır, Sonraya kaydeder. Ürün kendiliğinden Satın Al listesine düşer.",
+         "Sonra. İndirim gelince, listen hazır."]
+C_VO = [6.32, 4.72, 6.56, 4.8, 6.64, 3.12]
+def C():
+    S = []
+    def s0(t):
+        im = bg_grad((20, 32, 24), (8, 14, 10)); d = ImageDraw.Draw(im)
+        f = F(44, "SB"); tx = "BİR SONRA. BELGESELİ"; d.text(((W - f.getlength(tx)) / 2, 300), tx, font=f, fill=(200, 190, 150))
+        d.line((W/2 - 260, 370, W/2 + 260, 370), fill=(200, 190, 150), width=3)
+        f2 = F(120, "BL"); a = ease(prog(t, 0.2, 0.6))
+        for i, ln in enumerate(["Black Friday'e", "5 gün"]):
+            col = (255, 255, 255) if i == 0 else (255, 200, 60)
+            d.text(((W - f2.getlength(ln)) / 2, 470 + i * 140), ln, font=f2, fill=col + (int(255 * a),))
+        p = back(prog(t, 1.2, 0.5)); paste_c(im, emoji_img("🛒", int(260 * max(0.01, p))), W / 2, 1040)
+        caption(im, t, C_TXT[0], L, C_VO[0]); return im
+    S.append((D(C_VO[0]), s0))
+    def s1(t):
+        im = bg_grad((20, 32, 24), (8, 14, 10)); d = ImageDraw.Draw(im)
+        items = [("🎧", "kulaklık"), ("🧥", "mont"), ("☕", "kahve makinesi"), ("👟", "spor ayakkabı")]
+        for k, (e, n) in enumerate(items):
+            st = 0.3 + k * 0.6; p = back(prog(t, st, 0.4))
+            if p <= 0: continue
+            y = 380 + k * 260; paste_c(im, emoji_img(e, int(150 * max(0.01, p))), 260, y + 70)
+            d.text((380, y + 30), n, font=F(66, "XB"), fill="white")
+            d.text((380, y + 110), "“sonra alırım”", font=F(40, "M"), fill=(200, 190, 150))
+        caption(im, t, C_TXT[1], L, C_VO[1]); return im
+    S.append((D(C_VO[1]), s1))
+    def s2(t):
+        if t < 3.2:
+            n = int(800 + 1547 * ease(prog(t, 0, 3)))
+            im = gallery(t, speed=1500, counter=f"Ekran görüntüleri · {n:,}".replace(",", "."))
+        else:
+            im = chat_base("Ben (Sen)", "🙃"); y = 380
+            for k, (txt, e) in enumerate([("bunu al", "👀"), ("bu mont indirimde al!!", "🔥"), ("unutma", "😤"), ("neydi bu", "🤔")]):
+                if t > 3.3 + k * 0.45: y = bubble(im, txt, True, y, ease(prog(t, 3.3 + k * 0.45, 0.2)), emo=e)
+        caption(im, t, C_TXT[2], L, C_VO[2]); return im
+    S.append((D(C_VO[2]), s2))
+    def s3(t):
+        im = Image.new("RGBA", (W, H), (25, 20, 20, 255)); d = ImageDraw.Draw(im)
+        paste_c(im, emoji_img("🧥", 300), W / 2, 760)
+        if t > 1.6:
+            p = back(prog(t, 1.6, 0.3)); f = F(int(170 * max(0.2, p)), "BL"); tx = "TÜKENDİ"
+            st = Image.new("RGBA", (int(f.getlength(tx)) + 80, int(f.size * 1.5)), (0, 0, 0, 0)); sd = ImageDraw.Draw(st)
+            sd.rounded_rectangle((0, 0, st.width - 1, st.height - 1), radius=20, outline=(230, 40, 40), width=14)
+            sd.text((40, int(f.size * 0.12)), tx, font=f, fill=(230, 40, 40))
+            st = st.rotate(-12, expand=True, resample=Image.BICUBIC); paste_c(im, st, W / 2, 780)
+        if t > 3.0: paste_c(im, emoji_img("😭", 200), W / 2, 1150)
+        caption(im, t, C_TXT[3], L, C_VO[3]); return im
+    S.append((D(C_VO[3]), s3))
+    ph = phone_img("paylas", 820); pl = phone_img("sonra-liste", 820)
+    def s4(t):
+        sw = 3.4
+        base = bg_grad((242, 237, 227), (225, 218, 202))
+        if t < sw:
+            base.alpha_composite(ph, ((W - ph.width) // 2, 140))
+            sc = 820 / screen("paylas").width; ry = 140 + 20 + (1765 - 580) * 1.28 * sc
+            z = zoom_view(base, t, sw, (W / 2, ry - 150, 1.3), t0=0.3, t1=1.6)
+            if t > 1.7: tap(z, t, 2.0, W / 2 - 80, H / 2 + 150 * 1.3)
+        else:
+            tt = t - sw; base.alpha_composite(pl, ((W - pl.width) // 2, 140))
+            sc = 820 / 1179; ox = (W - pl.width) / 2 + 20; oy = 160
+            cy0 = oy + 507 * 1.28 * sc
+            z = zoom_view(base, tt, 3, (W / 2, cy0 + 200, 1.2), t0=0.1, t1=1.0)
+            if tt > 1.1:
+                s = 1.2; gx = W / 2 + (ox + 755 * 1.28 * sc - W / 2) * s; gy = H / 2 + (cy0 - (cy0 + 200)) * s
+                tap(z, tt, 1.4, gx, gy)
+        caption(z, t, C_TXT[4], L, C_VO[4], y=1560); return z
+    S.append((D(C_VO[4]) + 0.6, s4))
+    S.append((D(C_VO[5]) + 1.0, lambda t: end_card(t, "İndirim gelince listen hazır.")))
+    return S
+
 def render(name, S, outdir, final):
     files, starts, t0 = [], [], 0
     for i, (d, f) in enumerate(S):
@@ -148,7 +224,7 @@ def render(name, S, outdir, final):
 
 if __name__ == "__main__":
     which, mode, out = sys.argv[1], sys.argv[2], sys.argv[3]
-    S = {"A": A, "B": B}[which]()
+    S = {"A": A, "B": B, "C": C}[which]()
     if mode == "stills":
         for i, (d, f) in enumerate(S):
             for fr in (0.3, 0.85):

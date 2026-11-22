@@ -103,21 +103,23 @@ def tap(base, t, ts, cx, cy):
         ov = Image.new("RGBA", base.size, (0, 0, 0, 0)); ImageDraw.Draw(ov).ellipse((cx - 42, cy - 42, cx + 42, cy + 42), fill=(255, 255, 255, 150))
         base.alpha_composite(ov)
 
+_LOGO = None; _BADGES = None
 def end_card(t, line):
-    im = bg_grad((47, 82, 51), (22, 40, 26))
-    logo = Image.open(f"{REF}/marketing/logo.png").convert("RGBA").resize((420, 420), Image.LANCZOS)
-    p = back(prog(t, 0, 0.5)); lg = logo.resize((max(1, int(420 * (0.7 + 0.3 * p))),) * 2)
-    paste_c(im, lg, W / 2, 720, alpha=ease(prog(t, 0, 0.3)))
+    global _LOGO, _BADGES
+    if _LOGO is None:
+        _LOGO = Image.open(f"{HERE}/logo-transparent.png").convert("RGBA")
+        _BADGES = [Image.open(f"{HERE}/badge-appstore.png").convert("RGBA"), Image.open(f"{HERE}/badge-googleplay.png").convert("RGBA")]
+    im = bg_grad((242, 237, 227), (228, 220, 204))
+    p = back(prog(t, 0, 0.5)); sz = max(1, int(440 * (0.7 + 0.3 * p)))
+    paste_c(im, _LOGO.resize((sz, sz), Image.LANCZOS), W / 2, 700, alpha=ease(prog(t, 0, 0.3)))
     d = ImageDraw.Draw(im); f = F(76, "XB")
-    a = ease(prog(t, 0.3, 0.4))
-    if a > 0:
-        for i, ln in enumerate(wrap(line, f, 960)): d.text(((W - f.getlength(ln)) / 2, 1020 + i * 88), ln, font=f, fill=CREAM)
+    if t > 0.3:
+        for i, ln in enumerate(wrap(line, f, 960)): d.text(((W - f.getlength(ln)) / 2, 1010 + i * 88), ln, font=f, fill=(27, 48, 32))
     if t > 0.6:
-        for i, (s, b) in enumerate([("İndir", "App Store"), ("İndir", "Google Play")]):
-            cx = W / 2 + (-215 if i == 0 else 215); y0 = 1260
-            d.rounded_rectangle((cx - 195, y0, cx + 195, y0 + 130), radius=30, fill=CREAM)
-            d.text((cx - F(26, "M").getlength(s) / 2, y0 + 16), s, font=F(26, "M"), fill=GREEN)
-            d.text((cx - F(48, "XB").getlength(b) / 2, y0 + 50), b, font=F(48, "XB"), fill=INK)
+        a = ease(prog(t, 0.6, 0.3)); dy = int(30 * (1 - a))
+        paste_c(im, _BADGES[0], W / 2 - 225, 1290 + dy, a); paste_c(im, _BADGES[1], W / 2 + 225, 1290 + dy, a)
+        f2 = F(40, "SB"); tx = "Ücretsiz · iOS & Android"
+        d.text(((W - f2.getlength(tx)) / 2, 1400), tx, font=f2, fill=(90, 100, 90))
     return im
 
 # ---------- chat UI ----------

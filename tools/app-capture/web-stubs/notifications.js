@@ -1,0 +1,2 @@
+const p = (v) => Promise.resolve(v);
+module.exports = { __esModule: true, setNotificationHandler(){}, setNotificationChannelAsync: () => p(), getPermissionsAsync: () => p({ granted: false }), requestPermissionsAsync: () => p({ granted: false }), cancelScheduledNotificationAsync: () => p(), scheduleNotificationAsync: () => p(), AndroidImportance: { DEFAULT: 3 }, IosAuthorizationStatus: { PROVISIONAL: 3 }, SchedulableTriggerInputTypes: { WEEKLY: 'weekly' } };

@@ -1,0 +1,3 @@
+const p = (v) => Promise.resolve(v);
+const P = { setLogLevel(){}, configure(){}, getProducts: () => p([]), getOfferings: () => p({ current: null, all: {} }), getCustomerInfo: () => p({ entitlements: { active: {} } }), invalidateCustomerInfoCache: () => p(), purchaseStoreProduct: () => Promise.reject(new Error('web')), purchasePackage: () => Promise.reject(new Error('web')), restorePurchases: () => p({ entitlements: { active: {} } }), logIn: () => p({}), logOut: () => p({}), addCustomerInfoUpdateListener(){}, removeCustomerInfoUpdateListener(){} };
+module.exports = { __esModule: true, default: P, LOG_LEVEL: { DEBUG: 'd', ERROR: 'e' }, PRODUCT_CATEGORY: { NON_SUBSCRIPTION: 'n' } };

@@ -20,3 +20,6 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | jVVTd6dUhniCmeIi7rsV | Komik pizzicato, sitcom montajı | 2026-11-22 |
 | DtOagZRUiP1uLoN23BSy | Gerilimli-komik → neşeli gitar | 2026-11-22 |
 | wxnUbsNX1Sui0pklLm1C | Belgesel orkestral → neşeli | 2026-11-22 |
+
+## Gerçek uygulama ekranları (23 Kasım 2026)
+`reference/app-live/{tr-light,tr-dark,en-light}/` — sonra. 1.2.2 kodundan alınmış gerçek ekranlar (örnek verili). Videolarda ve kaydırmalılarda önce bunları kullan. Ayrıntı: `tools/app-capture/README.md`.

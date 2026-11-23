@@ -1,0 +1,4218 @@
+[
+ {
+  "path": "reference/app-live/alisveris-tr-dark/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/arama-indirim.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "arama-indirim"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/arama-mont.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "arama-mont"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-dark/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "alisveris",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/arama-indirim.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "arama-indirim"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/arama-mont.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "arama-mont"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/alisveris-tr-light/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "alisveris",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/arama-cafe.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "arama-cafe"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/arama-pasta.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "arama-pasta"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/detay-0.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/detay-1.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/detay-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/detay-3.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/ekle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/kesfet.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/liste.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-dark/profil.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/arama-cafe.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "arama-cafe"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/arama-pasta.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "arama-pasta"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/detay-0.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/detay-1.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/detay-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/detay-3.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/ekle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/kesfet.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/liste.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-en-light/profil.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/arama-kafe.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "arama-kafe"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/arama-makarna.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "arama-makarna"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-dark/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "genel",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/arama-kafe.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "arama-kafe"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/arama-makarna.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "arama-makarna"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/genel-tr-light/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "genel",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/arama-ders.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "arama-ders"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/arama-kpss.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "arama-kpss"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-dark/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "ogrenci",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/arama-ders.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "arama-ders"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/arama-kpss.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "arama-kpss"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/ogrenci-tr-light/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "ogrenci",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/arama-kapadokya.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "arama-kapadokya"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/arama-otel.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "arama-otel"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-dark/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "seyahat",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/arama-kapadokya.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "arama-kapadokya"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/arama-otel.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "arama-otel"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/seyahat-tr-light/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "seyahat",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/arama-flight.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "arama-flight"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/arama-sunrise.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "arama-sunrise"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/detay-0.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/detay-1.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/detay-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/detay-3.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/ekle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/kesfet.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/liste.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-dark/profil.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "dark",
+  "theme": "travel",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/arama-flight.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "arama-flight"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/arama-sunrise.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "arama-sunrise"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/detay-0.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/detay-1.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/detay-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/detay-3.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/ekle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/kesfet.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/liste.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/travel-en-light/profil.jpg",
+  "source": "app-live",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "travel",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/arama-kahvaltı.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "arama-kahvaltı"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/arama-tarif.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "arama-tarif"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-dark/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "yemek",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/ana-sayfa-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "ana-sayfa-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/ana-sayfa.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/arama-kahvaltı.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "arama-kahvaltı"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/arama-tarif.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "arama-tarif"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/ayarlar-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "ayarlar-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/ayarlar.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "ayarlar"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/detay-0.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "detay-0"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/detay-1.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "detay-1"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/detay-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "detay-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/detay-3.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "detay-3"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/ekle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "ekle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-dinle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-dinle-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-dinle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-dinle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-git-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-git-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-git"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-izle-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-izle-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-izle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-oku-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-oku-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-oku"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-satin-al-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-satin-al-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-satin-al"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-yap-2.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-yap-2"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kart-yap.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kart-yap"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kesfet-15dk.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kesfet-15dk"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kesfet-1saat.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kesfet-1saat"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kesfet-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kesfet-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kesfet-disari.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kesfet-disari"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kesfet-sec.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kesfet-sec"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/kesfet.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/liste-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "liste-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/liste-filtre-git.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "liste-filtre-git"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/liste-filtre-izle.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "liste-filtre-izle"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/liste-filtre-oku.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "liste-filtre-oku"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/liste-filtre-satin-al.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "liste-filtre-satin-al"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/liste.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "liste"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/profil-asagi.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "profil-asagi"
+ },
+ {
+  "path": "reference/app-live/yemek-tr-light/profil.jpg",
+  "source": "app-live",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "yemek",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-screens/ana-sayfa.png",
+  "source": "goktug",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "gercek-hesap",
+  "screen": "ana-sayfa"
+ },
+ {
+  "path": "reference/app-screens/ayarlar-acik.png",
+  "source": "goktug",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "gercek-hesap",
+  "screen": "ayarlar-acik"
+ },
+ {
+  "path": "reference/app-screens/ayarlar-koyu.png",
+  "source": "goktug",
+  "lang": "tr",
+  "scheme": "dark",
+  "theme": "gercek-hesap",
+  "screen": "ayarlar-koyu"
+ },
+ {
+  "path": "reference/app-screens/kesfet.png",
+  "source": "goktug",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "gercek-hesap",
+  "screen": "kesfet"
+ },
+ {
+  "path": "reference/app-screens/profil.png",
+  "source": "goktug",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "gercek-hesap",
+  "screen": "profil"
+ },
+ {
+  "path": "reference/app-screens/sonra-liste.png",
+  "source": "goktug",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "gercek-hesap",
+  "screen": "sonra-liste"
+ },
+ {
+  "path": "reference/marketing/header-tr.png",
+  "source": "marketing",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "magaza",
+  "screen": "header-tr"
+ },
+ {
+  "path": "reference/marketing/poster-9x16.jpg",
+  "source": "marketing",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "magaza",
+  "screen": "poster-9x16"
+ },
+ {
+  "path": "reference/marketing/poster-dikey.jpg",
+  "source": "marketing",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "magaza",
+  "screen": "poster-dikey"
+ },
+ {
+  "path": "reference/marketing/store-en-01.png",
+  "source": "marketing",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "magaza",
+  "screen": "store-en-01"
+ },
+ {
+  "path": "reference/marketing/store-en-02-share.png",
+  "source": "marketing",
+  "lang": "en",
+  "scheme": "light",
+  "theme": "magaza",
+  "screen": "store-en-02-share"
+ },
+ {
+  "path": "reference/marketing/store-tr-01.png",
+  "source": "marketing",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "magaza",
+  "screen": "store-tr-01"
+ },
+ {
+  "path": "reference/marketing/store-tr-02-paylas.png",
+  "source": "marketing",
+  "lang": "tr",
+  "scheme": "light",
+  "theme": "magaza",
+  "screen": "store-tr-02-paylas"
+ }
+]

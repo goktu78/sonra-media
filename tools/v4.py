@@ -61,20 +61,112 @@ def phone_img(name, width=780):
     out.paste(s, (pad, pad), m); return out
 
 # ---------- captions (TikTok style) ----------
-def chunks(text, n=3):
-    w = text.replace('"', '').split(); return [" ".join(w[i:i + n]) for i in range(0, len(w), n)]
-def caption(base, t, text, start, dur, y=1500, size=74):
-    cs = chunks(text); tot = sum(len(c) for c in cs); acc = 0
+# Kural (22 Kasım geri bildirimi): her altyazı karesi TEK SATIR; sığmazsa yazı küçülür (min 56 px),
+# yine sığmazsa ifade anlamına göre iki ayrı kareye bölünür. Karede en fazla 7 kelime, tek kelimelik kare yok.
+# Sabit konum (alt-orta güvenli alan), zıplama/kayma yok; sadece kısa fade.
+CAP_Y = 1440          # satır merkezinin y'si (TikTok/Reels butonlarının üstü)
+CAP_MAX, CAP_MIN, CAP_W, CAP_WORDS, CAP_FONT = 74, 56, 960, 7, "XB"
+import re as _re
+def tr_upper(s, lang="tr"):
+    # Altyazılar cümle düzeninde (Göktuğ'un örneği: "Sonra hâlâ Kapadokya tatilinden kalan"); büyük harf gerekirse TR kuralı:
+    return s
+def tr_caps(s, lang="tr"):
+    if lang == "tr": s = s.replace("i", "İ").replace("ı", "I")
+    return s.upper()
+def _fits(words, lang):
+    return F(CAP_MIN, CAP_FONT).getlength(tr_upper(" ".join(words), lang)) <= CAP_W and len(words) <= CAP_WORDS
+def _split(words, lang):
+    """Bir ifadeyi tek satıra sığan, dengeli parçalara böl (tek kelime kalmasın)."""
+    if _fits(words, lang) or len(words) < 4: return [words]
+    best = None
+    for k in range(2, len(words) - 1):
+        a, b = words[:k], words[k:]
+        score = abs(len(" ".join(a)) - len(" ".join(b)))
+        # anlam: virgül/bağlaçtan sonra bölmeyi tercih et
+        if a[-1].endswith((",", ";", ":")): score -= 40
+        if b[0].lower() in ("ve", "ama", "çünkü", "and", "but", "for", "in"): score -= 6
+        if best is None or score < best[0]: best = (score, k)
+    k = best[1]
+    return _split(words[:k], lang) + _split(words[k:], lang)
+def cap_frames(text, lang="tr"):
+    text = _re.sub(r"\[[^\]]*\]", "", text).replace('"', "").strip()
+    phrases = [p.split() for p in _re.findall(r"[^.!?…]+[.!?…]*", text) if p.strip()]
+    frames = []
+    for ph in phrases:
+        for part in _split(ph, lang): frames.append(part)
+    # tek kelimelik kareleri komşusuyla birleştir (sığıyorsa)
+    out = []
+    for fr in frames:
+        if out and (len(fr) == 1 or len(out[-1]) == 1) and _fits(out[-1] + fr, lang): out[-1] = out[-1] + fr
+        else: out.append(fr)
+    return [" ".join(f) for f in out]
+def cap_size(line, lang="tr"):
+    s = tr_upper(line, lang)
+    for sz in range(CAP_MAX, CAP_MIN - 1, -2):
+        if F(sz, CAP_FONT).getlength(s) <= CAP_W: return sz
+    return CAP_MIN
+def caption(base, t, text, start, dur, y=None, size=None, lang="tr"):
+    cs = cap_frames(text, lang); tot = sum(len(c) for c in cs); acc = 0
     for c in cs:
         s0 = start + dur * acc / tot; acc += len(c); s1 = start + dur * acc / tot
-        if s0 <= t < s1 + (0.25 if c == cs[-1] else 0):
-            d = ImageDraw.Draw(base); f = F(size, "BL")
-            lines = wrap(c.replace('i','İ').replace('ı','I').upper(), f, 960)
-            p = back(prog(t, s0, 0.12)); sz = int(size * (0.85 + 0.15 * p)); f = F(sz, "BL")
-            for i, ln in enumerate(lines):
-                lw = f.getlength(ln); x = (W - lw) / 2; yy = y + i * sz * 1.1
-                d.text((x, yy), ln, font=f, fill="white", stroke_width=max(6, sz // 9), stroke_fill="black")
+        if s0 <= t < s1 + (0.3 if c == cs[-1] else 0):
+            sz = cap_size(c, lang); f = F(sz, CAP_FONT); ln = tr_upper(c, lang)
+            a = int(255 * ease(prog(t, s0, 0.08)))
+            ov = Image.new("RGBA", base.size, (0, 0, 0, 0)); d = ImageDraw.Draw(ov)
+            lw = f.getlength(ln); ph = sz * 0.72
+            d.rounded_rectangle(((W - lw) / 2 - 30, CAP_Y - ph, (W + lw) / 2 + 30, CAP_Y + ph), radius=int(ph * 0.6),
+                                fill=(0, 0, 0, int(a * 0.55)))
+            d.text(((W - lw) / 2, CAP_Y), ln, font=f, fill=(255, 255, 255, a), anchor="lm",
+                   stroke_width=max(4, sz // 15), stroke_fill=(0, 0, 0, a))
+            base.alpha_composite(ov)
             return
+
+# ---------- library screens (reference/library.json + usage-log.csv rotation) ----------
+import json as _json, csv as _csv, datetime as _dt
+def lib_used(days=14, today=None):
+    today = today or _dt.date.today(); used = set()
+    try:
+        for r in _csv.DictReader(open(f"{REF}/usage-log.csv")):
+            if (today - _dt.date.fromisoformat(r["date"])).days < days: used.add(r["path"])
+    except FileNotFoundError: pass
+    return used
+def lib_pick(theme, lang, scheme, screen, today=None):
+    """library.json'dan ekran seç; son 14 günde kullanıldıysa hata ver (rotasyon kuralı)."""
+    L = _json.load(open(f"{REF}/library.json"))
+    for x in L:
+        if x.get("theme") == theme and x.get("lang") == lang and x.get("scheme") == scheme and x.get("screen") == screen:
+            p = x["path"]
+            if p in lib_used(today=today): raise ValueError(f"son 14 günde kullanıldı: {p}")
+            return p
+    raise KeyError((theme, lang, scheme, screen))
+def lib_log(date, video, paths):
+    with open(f"{REF}/usage-log.csv", "a") as f:
+        for p in paths: f.write(f"{date},{video},{p}\n")
+_lc = {}
+def lib_phone(path, width=820):
+    k = (path, width)
+    if k in _lc: return _lc[k]
+    sc = Image.open(f"{REF}/../{path}" if path.startswith("reference/") else path).convert("RGBA")
+    h = int(sc.height * width / sc.width); s = sc.resize((width, h), Image.LANCZOS)
+    m = Image.new("L", s.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, width, h), radius=int(width * 0.11), fill=255)
+    pad = 20; out = Image.new("RGBA", (width + 2 * pad, h + 2 * pad), (0, 0, 0, 0))
+    ImageDraw.Draw(out).rounded_rectangle((0, 0, width + 2 * pad, h + 2 * pad), radius=int(width * 0.11) + pad, fill=(18, 18, 18, 255))
+    out.paste(s, (pad, pad), m); _lc[k] = (out, width / sc.width); return _lc[k]
+def app_view(path, t, focus=None, zoom=1.0, z0=0.3, z1=1.6, taps=(), bg=((242, 237, 227), (225, 218, 202)), top=140, width=820):
+    """Gerçek ekranı telefon çerçevesinde göster; focus=(sx,sy) kaynak pikselde, oraya yumuşak zoom; taps=[(t,sx,sy)]."""
+    ph, k = lib_phone(path, width); base = bg_grad(*bg)
+    ox = (W - ph.width) // 2 + 20; oy = top + 20; base.alpha_composite(ph, (ox - 20, oy - 20))
+    def to_canvas(sx, sy): return ox + sx * k, oy + sy * k
+    s = 1.0; ccx, ccy = W / 2, H / 2
+    if focus:
+        fx, fy = to_canvas(*focus); p = ease(prog(t, z0, z1 - z0)); s = 1 + (zoom - 1) * p
+        ccx = W / 2 + (fx - W / 2) * p; ccy = H / 2 + (fy - H / 2) * p
+        hw, hh = W / (2 * s), H / (2 * s); ccx = min(max(ccx, hw), W - hw); ccy = min(max(ccy, hh), H - hh)
+    x0, y0 = ccx - W / (2 * s), ccy - H / (2 * s)
+    im = base.crop((int(x0), int(y0), int(x0 + W / s), int(y0 + H / s))).resize((W, H), Image.BICUBIC) if s > 1.001 else base
+    for (tt, sx, sy) in taps:
+        cx, cy = to_canvas(sx, sy); tap(im, t, tt, (cx - x0) * s, (cy - y0) * s)
+    return im
 
 def bg_grad(top, bot):
     g = np.linspace(0, 1, H)[:, None]
@@ -104,7 +196,7 @@ def tap(base, t, ts, cx, cy):
         base.alpha_composite(ov)
 
 _LOGO = None; _BADGES = None
-def end_card(t, line):
+def end_card(t, line, lang="tr"):
     global _LOGO, _BADGES
     if _LOGO is None:
         _LOGO = Image.open(f"{HERE}/logo-transparent.png").convert("RGBA")
@@ -118,7 +210,7 @@ def end_card(t, line):
     if t > 0.6:
         a = ease(prog(t, 0.6, 0.3)); dy = int(30 * (1 - a))
         paste_c(im, _BADGES[0], W / 2 - 225, 1290 + dy, a); paste_c(im, _BADGES[1], W / 2 + 225, 1290 + dy, a)
-        f2 = F(40, "SB"); tx = "Ücretsiz · iOS & Android"
+        f2 = F(40, "SB"); tx = "Ücretsiz · iOS & Android" if lang == "tr" else "Free · iOS & Android"
         d.text(((W - f2.getlength(tx)) / 2, 1400), tx, font=f2, fill=(90, 100, 90))
     return im
 

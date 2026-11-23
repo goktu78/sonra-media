@@ -207,9 +207,11 @@ def render(name, S, outdir, final):
     files, starts, t0 = [], [], 0
     for i, (d, f) in enumerate(S):
         p = f"{outdir}/{name}_s{i}.mp4"
-        render_scene(p, d, lambda fr, t, f=f: fr.im.alpha_composite(f(t)), (0, 0, 0)); files.append(p); starts.append(t0); t0 += d
+        if not (os.environ.get("REUSE") and os.path.exists(p)):
+            render_scene(p, d, lambda fr, t, f=f: fr.im.alpha_composite(f(t)), (0, 0, 0))
+        files.append(p); starts.append(t0); t0 += d
     # sfx track: whoosh at cuts, pops
-    from audio2 import SR
+    from lib import SR
     n = int(t0 * SR); out = np.zeros(n); rng = np.random.default_rng(5)
     for s in starts[1:]:
         st = int((s - 0.15) * SR); Lw = int(0.4 * SR)

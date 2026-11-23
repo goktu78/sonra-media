@@ -1,0 +1,11 @@
+{"handle": "@sonraapp", "slides": [
+ {"kind":"cover","dark":true,"emoji":"🔖","kicker":"KAYDEDİLENLER KLASÖRÜNÜN","title":"7 evresi","promise":"Hangisindesin? Dürüst ol."},
+ {"kind":"text","emoji":"🌱","kicker":"EVRE 1 · UMUT","title":"“Bunu kesin yapacağım.”","body":"İlk kayıt. Kalbin hafif, niyetin saf. Henüz her şey mümkün."},
+ {"kind":"text","emoji":"📚","kicker":"EVRE 2 · KOLEKSİYONCU","title":"“Lazım olur, dursun.”","body":"Kafe, kitap, kulaklık, dizi. Kategori yok, sistem yok. Sadece heves ve bir başparmak."},
+ {"kind":"text","emoji":"⛏️","kicker":"EVRE 3 · ARKEOLOG","title":"“Şu kitabın adı neydi?”","body":"Dört dakika aşağı kaydırma. Kitap yok. Onun yerine üç yıl önce kaydettiğin bir kombin."},
+ {"kind":"text","emoji":"🙈","kicker":"EVRE 4 · İNKÂR","title":"“Bir ara toparlarım.”","body":"Klasör bin kaydı geçti. Açmak yerine yenisini kaydediyorsun."},
+ {"kind":"text","emoji":"📸","kicker":"EVRE 5 · YEDEKLEME","title":"“Kaydettim ama bir de SS alayım.”","body":"Artık iki ayrı mezarlık var: Kaydedilenler ve Galeri. İkisini de ziyaret etmiyorsun."},
+ {"kind":"text","emoji":"🫠","kicker":"EVRE 6 · KABUL","title":"“Kaydetmek, yapmak değilmiş.”","body":"Sorun kaydetmek değil. Sorun, kaydettiğine bir daha dönememek."},
+ {"kind":"app","kicker":"EVRE 7 · AYDINLANMA ✨","title":"Paylaş → Sonra'ya Kaydet","body":"Yapay zekâ kendisi ayırır: İzle, Git, Oku, Satın Al, Dinle, Yap. Keşfet de vaktine göre birini seçer.","screens":["/home/claude/sonra-media/carousels/2026-11-23/src-ana-sayfa-blur.jpg","/home/claude/sonra-media/reference/app-live/genel-tr-light/kesfet.jpg"]},
+ {"kind":"end","dark":true,"kicker":"SEN HANGİ EVREDESİN?","list":["Umut","Koleksiyoncu","Arkeolog","İnkâr","Yedekleme","Kabul","Aydınlanma"],"cta":"Yorumlara evre numaranı yaz 👇"}
+]}

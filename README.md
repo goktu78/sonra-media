@@ -13,13 +13,40 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | 2026-11-22 | 2026-11-22-B (ElevenLabs mix) | Skeç: "O kafe neydi?" mesajlaşma + galeri + gerçek Sonra arama ekranı | TR | ElevenLabs Deniz + ElevenLabs Music |
 | 2026-11-22 | 2026-11-22-C (ElevenLabs mix) | Gündem: "Black Friday belgeseli" — sepet avcıları, TÜKENDİ, gerçek paylaş menüsü + Satın Al | TR | ElevenLabs Deniz Sab + ElevenLabs Music |
 
+| 2026-11-23 | 2026-11-23-1 (12:30) | Sokak röportajı (yazılı soru-cevap), gündem: Öğretmenler Günü'ne 1 gün kala — "Eylülde kaydettim, bulamadım", öğretmenin 14. kupası → Satın Al (alisveris-tr-light ana-sayfa + detay-1) | TR | ElevenLabs Cavit + müzik jVVTd6dUhniCmeIi7rsV |
+| 2026-11-23 | 2026-11-23-3 (18:30) | POV: "It's November, 63 saved beaches", 4°C, boş hafta sonu → Go kartı + Explore "I'm going out" (travel-en-light kart-git-2, kesfet, kesfet-disari) | EN | ElevenLabs Elena (w4DBBAtZhQtfCihqCw5b) + müzik DtOagZRUiP1uLoN23BSy |
+| 2026-11-23 | 2026-11-23-2 (21:00) | Belgesel: "Ne izlesek?" — cuma 21:04, 47 dk katalog, 23:58 iki uyuyan → İzle listesi (genel-tr-dark liste + liste-filtre-izle) | TR | ElevenLabs Ahmet + müzik wxnUbsNX1Sui0pklLm1C |
+
+## Kaydırmalı log
+
+| Tarih | Klasör | Konu | Ekranlar |
+|---|---|---|---|
+| 2026-11-23 (15:30) | carousels/2026-11-23 | Kaydedilenler klasörünün 7 evresi (9 slayt, IG 1080x1350 + TikTok 1080x1920) | app-screens/ana-sayfa (küçük resimler bulanık) + genel-tr-light/kesfet |
+
+## Ses havuzu (dönüşümlü)
+
+| Ses | voice_id | Son kullanım |
+|---|---|---|
+| Deniz | KAGDtM2gzDrjWlUp2KNe | 2026-11-22 |
+| Deniz Sab | PNOYtBiXC3ciuXQCrLfL | 2026-11-22 |
+| Cavit | lxZLq5dcyw12UangGJgN | 2026-11-23 |
+| Zuhal | Xen0soH4tcGo78ododZU | — (sıradaki) |
+| Ahmet | ZsYcqahfiS2dy4J6XYC5 | 2026-11-23 |
+| EN: Elena | w4DBBAtZhQtfCihqCw5b | 2026-11-23 |
+
+Günün son videosu 2026-11-23: Ahmet → 24 Kasım ilk video Ahmet ile başlamasın; öncelik Zuhal, Deniz, Deniz Sab.
+
 ## Müzik kütüphanesi (ElevenLabs Music, telifsiz)
 
 | generation_id | Tarz | Son kullanım |
 |---|---|---|
-| jVVTd6dUhniCmeIi7rsV | Komik pizzicato, sitcom montajı | 2026-11-22 |
-| DtOagZRUiP1uLoN23BSy | Gerilimli-komik → neşeli gitar | 2026-11-22 |
-| wxnUbsNX1Sui0pklLm1C | Belgesel orkestral → neşeli | 2026-11-22 |
+| jVVTd6dUhniCmeIi7rsV | Komik pizzicato, sitcom montajı | 2026-11-23 |
+| DtOagZRUiP1uLoN23BSy | Gerilimli-komik → neşeli gitar | 2026-11-23 |
+| wxnUbsNX1Sui0pklLm1C | Belgesel orkestral → neşeli | 2026-11-23 |
 
 ## Gerçek uygulama ekranları (23 Kasım 2026)
 `reference/app-live/{tr-light,tr-dark,en-light}/` — sonra. 1.2.2 kodundan alınmış gerçek ekranlar (örnek verili). Videolarda ve kaydırmalılarda önce bunları kullan. Ayrıntı: `tools/app-capture/README.md`.
+
+## Altyazı kuralı (23 Kasım'dan itibaren, `tools/v4.py` caption)
+Her altyazı karesi tek satır, cümle düzeninde; sığmazsa 74→56 px küçülür, yine sığmazsa ifade noktalama/anlama göre iki ayrı kareye bölünür (karede ≤7 kelime, tek kelimelik kare yok). Sabit konum (y=1440, yarı saydam koyu bant), zıplama yok.
+Ekranlar `lib_pick()` ile `reference/library.json`'dan seçilir; son 14 günde kullanılan görsel hata verir; kullanım `lib_log()` ile `usage-log.csv`'ye yazılır.

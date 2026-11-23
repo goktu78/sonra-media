@@ -16,3 +16,7 @@ Uygulama kaynak kodu bu herkese açık depoda DEĞİL. Kaynak `goktu78/sonra-app
 6. Geniş set: `python3 capture2.py OUT light|dark tr|en packs/<tema>.json` (tema başına ~37 ekran; yeni tema = yeni packs/*.json + .queries.json). Tek set: `python3 capture.py OUT_DIR light|dark tr|en`
    Ortam değişkenleri: `SEED=senaryo.json` (kendi örnek kayıtların: [kategori, url, başlık, kaynak, küçük-resim-no]),
    `QUERY=` (arama kelimesi), `DETAIL=` (açılacak kaydın başlığı). Kategori: watch/go/read/buy/listen/do/other.
+
+## Hazır bekleyen tema: film-dizi (23 Kasım)
+`packs/film-dizi-tr.json` + `.queries.json` yazıldı (12 örnek kayıt, ağırlık İzle). Kaynak erişilebilir olduğunda:
+`python3 capture2.py ../../reference/app-live/film-dizi-tr-light light tr packs/film-dizi-tr.json` ve aynısı `dark` ile; ardından library.json'a ekle.

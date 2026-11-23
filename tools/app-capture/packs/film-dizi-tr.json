@@ -1,0 +1,86 @@
+[
+ [
+  "watch",
+  "https://www.youtube.com/watch?v=f1",
+  "Hafta sonu bitirilecek 6 bölümlük mini dizi",
+  "YouTube",
+  2
+ ],
+ [
+  "watch",
+  "https://www.instagram.com/reel/f2",
+  "Arkadaşın 'bunu izle hayatın değişir' dediği film",
+  "Instagram",
+  9
+ ],
+ [
+  "watch",
+  "https://www.tiktok.com/@d/video/f3",
+  "Final bölümünden önce izlenmesi gereken 3 sahne",
+  "TikTok",
+  5
+ ],
+ [
+  "watch",
+  "https://www.youtube.com/watch?v=f4",
+  "Aralık'ta vizyona girecek filmler",
+  "YouTube",
+  7
+ ],
+ [
+  "go",
+  "https://maps.google.com/?q=f5",
+  "Kadıköy'de eski usul tek salonlu sinema",
+  "Google Maps",
+  4
+ ],
+ [
+  "go",
+  "https://www.instagram.com/p/f6",
+  "Kış film festivali programı",
+  "Instagram",
+  1
+ ],
+ [
+  "listen",
+  "https://open.spotify.com/playlist/f7",
+  "Film müzikleri: yağmurlu pazar listesi",
+  "Spotify",
+  6
+ ],
+ [
+  "listen",
+  "https://open.spotify.com/episode/f8",
+  "Spoilersız dizi podcast'i — yeni bölüm",
+  "Spotify",
+  3
+ ],
+ [
+  "read",
+  "https://medium.com/@d/f9",
+  "Bu yılın en iyi 10 dizisi, gerçekten",
+  "Medium",
+  0
+ ],
+ [
+  "buy",
+  "https://www.trendyol.com/f10",
+  "Ev sineması için mini projektör",
+  "Trendyol",
+  8
+ ],
+ [
+  "do",
+  "https://www.instagram.com/reel/f11",
+  "Evde 10 dakikada patlamış mısır, sinema usulü",
+  "Instagram",
+  10
+ ],
+ [
+  "watch",
+  "https://www.youtube.com/watch?v=f12",
+  "Aileyle izlenecek animasyon filmler",
+  "YouTube",
+  11
+ ]
+]

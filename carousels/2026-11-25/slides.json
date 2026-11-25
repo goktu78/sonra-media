@@ -1,0 +1,11 @@
+{"handle": "@sonraapp", "slides": [
+ {"kind":"cover","dark":true,"emoji":"🛒","kicker":"EFSANE CUMA · 2 GÜN KALDI","title":"Sepetin seni ele veriyor","title_size":132,"promise":"5 alışverişçi tipi. Biri kesin sensin."},
+ {"kind":"text","emoji":"⏰","kicker":"CUMA · 00:00","title":"Herkesin bir stratejisi var.","body":"İki gün kaldı. Kimi alarm kurdu, kimi sepeti üç aydır dolduruyor. Hangisi olduğunu biliyorsun."},
+ {"kind":"text","emoji":"🚨","kicker":"TİP 1 · ALARMCI","title":"“23:59'da hazırım.”","body":"Alarm kurulu, kart kayıtlı, şarj yüzde yüz. Saat 00:01'de koltukta uyuyakalmış."},
+ {"kind":"text","emoji":"🛒","kicker":"TİP 2 · SEPET BEKÇİSİ","title":"“Üç aydır sepette bekliyor.”","body":"Fiyatına her sabah bakıyor. Cuma günü indirim yüzde beş çıkıyor. Yine de alıyor, emeği var."},
+ {"kind":"text","emoji":"🔍","kicker":"TİP 3 · DEDEKTİF","title":"“Reelde gördüğüm o lamba…”","body":"Adını bilmiyor, markasını bilmiyor. Kaydetmişti ama nereye? Arama geçmişi: “yeşil lamba ufak şey”."},
+ {"kind":"text","emoji":"📦","kicker":"TİP 4 · STOKÇU","title":"“İndirimde, iki tane alayım.”","body":"Lazım değildi ama yüzde kırk indirim vardı. Kargocu artık ismini biliyor, bayramda arıyor."},
+ {"kind":"text","emoji":"↩️","kicker":"TİP 5 · İADECİ","title":"“Pazartesi iade ederim.”","body":"Kutu hâlâ kapının önünde. İade süresinin son günü. Kutu artık mobilyadan sayılıyor."},
+ {"kind":"app","kicker":"DEDEKTİFE ÖZEL ✨","title":"Paylaş → Sonra'ya Kaydet","body":"Reelde gördüğün ürün kendiliğinden Satın Al listesine düşer. Cuma gecesi aramazsın, açarsın.","screens":["/home/claude/sonra-media/reference/app-live/alisveris-tr-light/ekle.jpg","/home/claude/sonra-media/reference/app-live/alisveris-tr-light/arama-indirim.jpg"]},
+ {"kind":"end","dark":true,"kicker":"SEN HANGİ TİPSİN?","list":["Alarmcı","Sepet bekçisi","Dedektif","Stokçu","İadeci"],"cta":"Yorumlara numaranı yaz, arkadaşını etiketle 👇"}
+]}

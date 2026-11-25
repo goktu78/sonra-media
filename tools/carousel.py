@@ -43,7 +43,7 @@ def slide(s, i, n, h, handle):
     k = s["kind"]; e = html.escape
     inner = ""
     if k == "cover":
-        inner = f'<div class="emo">{s["emoji"]}</div><div class="kick" style="font-size:52px;color:#F2EDE3">{e(s["kicker"])}</div><h1>{e(s["title"])}</h1><div class="promise">{e(s["promise"])}</div>'
+        inner = f'<div class="emo">{s["emoji"]}</div><div class="kick" style="font-size:52px;color:#F2EDE3">{e(s["kicker"])}</div><h1 style="font-size:{s.get('title_size',170)}px">{e(s["title"])}</h1><div class="promise">{e(s["promise"])}</div>'
     elif k == "text":
         inner = f'<div class="emo">{s["emoji"]}</div><div class="kick">{e(s["kicker"])}</div><h2>{e(s["title"])}</h2><p>{e(s["body"])}</p>'
     elif k == "app":

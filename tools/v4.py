@@ -257,3 +257,28 @@ def gallery(t, speed=900, counter=None, timer=None):
     if counter: d.text((50, 120), counter, font=F(64, "XB"), fill="white")
     if timer: d.text((W - 50 - F(64, "XB").getlength(timer), 120), timer, font=F(64, "XB"), fill=(255, 80, 80))
     return im
+
+# ---------- ilk saniye kuralı (25 Kasım): kanca metni 0. kareden + hareket ----------
+HOOK_Y = 300   # güvenli alan: y>=230, sağ 230 px boş
+def hook(base, t, text, y=HOOK_Y, size=78, dur=None, dark=False):
+    """0. kareden itibaren tam görünen ≤7 kelimelik kanca kartı. İlk 0.45 sn hafif 'punch' (1.10→1.0) ile hareket.
+    dur verilirse son 0.25 sn'de söner."""
+    words = text.split(); assert len(words) <= 7, "kanca ≤7 kelime olmalı"
+    f = F(size, "BL"); maxw = W - 2 * 70 - 160
+    lines = wrap(text, f, maxw)
+    if len(lines) > 1 and len(lines[-1].split()) == 1:          # tek kelimelik satır kalmasın
+        ws = text.split(); k = (len(ws) + 1) // 2; lines = [" ".join(ws[:k]), " ".join(ws[k:])]
+    lh = int(size * 1.16); bw = max(f.getlength(l) for l in lines) + 70; bh = lh * len(lines) + 44
+    card = Image.new("RGBA", (int(bw), int(bh)), (0, 0, 0, 0)); d = ImageDraw.Draw(card)
+    bg, fg = ((20, 20, 20, 235), (255, 255, 255)) if dark else ((255, 255, 255, 245), (17, 17, 17))
+    d.rounded_rectangle((0, 0, bw - 1, bh - 1), radius=30, fill=bg)
+    for i, l in enumerate(lines): d.text(((bw - f.getlength(l)) / 2, 18 + i * lh), l, font=f, fill=fg)
+    s = 1.10 - 0.10 * ease(prog(t, 0.0, 0.45))
+    a = 1.0 if dur is None else 1 - prog(t, dur - 0.25, 0.25)
+    if a <= 0: return
+    card = card.resize((max(1, int(card.width * s)), max(1, int(card.height * s))), Image.LANCZOS)
+    paste_c(base, card, (W - 160) / 2 + 40, y + bh / 2, alpha=a)
+
+def end_short(t, line, lang="tr"):
+    """≤1.2 sn kapanış kartı (logo + rozetler), seslendirmesiz. end_card'ın hızlı sürümü."""
+    return end_card(min(t * 2.2, 3.0), line, lang)

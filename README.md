@@ -19,11 +19,16 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | 2026-11-24 | 2026-11-24-1 (12:30) | Gündem (yıl özetleri beklenirken): "Kaydettiklerinin yıl özeti" — 1.284 kayıt, en aktif saat 01:47, açılan 9, unvan "Dijital Sincap" → Keşfet "Bana bir şey seç" → balkonda fesleğen (genel-tr-dark kesfet + kesfet-sec) | TR | ElevenLabs Deniz Sab + müzik wxnUbsNX1Sui0pklLm1C |
 | 2026-11-24 | 2026-11-24-2 (18:30, +YouTube) | "Ben: sonra izlerim / 3 ay sonra": eylülde KPSS tarih videosu kaydı → final gecesi 03:12, 600 video, sınıf grubu → arama "kpss" + Oku kartı (ogrenci-tr-light ekle + arama-kpss + kart-oku) | TR | ElevenLabs Zuhal + müzik DtOagZRUiP1uLoN23BSy |
 | 2026-11-24 | 2026-11-24-3 (21:00) | Mesajlaşma skeci: Yılbaşı grubu, 186 reel, "KARAR: YOK", 30 Aralık hâlâ evde → Git listesi + arama "kapadokya" (seyahat-tr-dark liste + arama-kapadokya) | TR | ElevenLabs Deniz + müzik jVVTd6dUhniCmeIi7rsV |
+| 2026-11-25 | 2026-11-25-1 (12:30) | YENİ FORMAT (14,8 sn) Mesajlaşma skeci: "Annenden kaç reel birikti?" — annemden sabah 06:12 reelleri, "Kaydettim anne" → 3 hafta sonra "O sütlacı yaptın mı?" → Yap kartı "5 malzemeli fırın sütlaç" → "Yaptım anne 📸" (yemek-tr-light kart-yap-2) | TR | ElevenLabs Ahmet + müzik jVVTd6dUhniCmeIi7rsV |
+| 2026-11-25 | 2026-11-25-2 (18:30, +YouTube) | YENİ FORMAT (12,7 sn) Gündem Efsane Cuma: "Cuma gecesi böyle mi arayacaksın?" — "instagramda gördüğüm yeşil lamba" → 0 sonuç ×5, saat 00:07, BULAMADIM → Satın Al kartı (alisveris-tr-dark kart-satin-al) | TR | ElevenLabs Cavit + müzik DtOagZRUiP1uLoN23BSy |
+
+Yeni format (25 Kasım): 12–18 sn, 3–4 sahne, 0. karede `hook()` kanca kartı + hareket, uygulama ≤3 sn, kapanış `end_short()` 1,2 sn.
 
 ## Kaydırmalı log
 
 | Tarih | Klasör | Konu | Ekranlar |
 |---|---|---|---|
+| 2026-11-25 (15:30) | carousels/2026-11-25 | Efsane Cuma: "Sepetin seni ele veriyor" — 5 alışverişçi tipi (Alarmcı, Sepet bekçisi, Dedektif, Stokçu, İadeci), 9 slayt | alisveris-tr-light ekle + arama-indirim |
 | 2026-11-23 (15:30) | carousels/2026-11-23 | Kaydedilenler klasörünün 7 evresi (9 slayt, IG 1080x1350 + TikTok 1080x1920) | app-screens/ana-sayfa (küçük resimler bulanık) + genel-tr-light/kesfet |
 
 ## Ses havuzu (dönüşümlü)
@@ -32,19 +37,19 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 |---|---|---|
 | Deniz | KAGDtM2gzDrjWlUp2KNe | 2026-11-24 |
 | Deniz Sab | PNOYtBiXC3ciuXQCrLfL | 2026-11-24 |
-| Cavit | lxZLq5dcyw12UangGJgN | 2026-11-23 |
+| Cavit | lxZLq5dcyw12UangGJgN | 2026-11-25 |
 | Zuhal | Xen0soH4tcGo78ododZU | 2026-11-24 |
-| Ahmet | ZsYcqahfiS2dy4J6XYC5 | 2026-11-23 |
+| Ahmet | ZsYcqahfiS2dy4J6XYC5 | 2026-11-25 |
 | EN: Elena | w4DBBAtZhQtfCihqCw5b | 2026-11-23 |
 
-Günün son videosu 2026-11-24: Deniz → 25 Kasım ilk video Deniz ile başlamasın; öncelik Cavit, Ahmet, (EN) Elena.
+Günün son videosu 2026-11-25: Cavit → 26 Kasım ilk video Cavit ile başlamasın; öncelik Deniz, Deniz Sab, Zuhal. Bu hafta 1 EN video yapıldı (23 Kasım) — haftanın ikinci EN videosu 26–29 Kasım arasında.
 
 ## Müzik kütüphanesi (ElevenLabs Music, telifsiz)
 
 | generation_id | Tarz | Son kullanım |
 |---|---|---|
-| jVVTd6dUhniCmeIi7rsV | Komik pizzicato, sitcom montajı | 2026-11-24 |
-| DtOagZRUiP1uLoN23BSy | Gerilimli-komik → neşeli gitar | 2026-11-24 |
+| jVVTd6dUhniCmeIi7rsV | Komik pizzicato, sitcom montajı | 2026-11-25 |
+| DtOagZRUiP1uLoN23BSy | Gerilimli-komik → neşeli gitar | 2026-11-25 |
 | wxnUbsNX1Sui0pklLm1C | Belgesel orkestral → neşeli | 2026-11-24 |
 
 ## Gerçek uygulama ekranları (23 Kasım 2026)

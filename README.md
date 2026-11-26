@@ -21,8 +21,19 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | 2026-11-24 | 2026-11-24-3 (21:00) | Mesajlaşma skeci: Yılbaşı grubu, 186 reel, "KARAR: YOK", 30 Aralık hâlâ evde → Git listesi + arama "kapadokya" (seyahat-tr-dark liste + arama-kapadokya) | TR | ElevenLabs Deniz + müzik jVVTd6dUhniCmeIi7rsV |
 | 2026-11-25 | 2026-11-25-1 (12:30) | YENİ FORMAT (14,8 sn) Mesajlaşma skeci: "Annenden kaç reel birikti?" — annemden sabah 06:12 reelleri, "Kaydettim anne" → 3 hafta sonra "O sütlacı yaptın mı?" → Yap kartı "5 malzemeli fırın sütlaç" → "Yaptım anne 📸" (yemek-tr-light kart-yap-2) | TR | ElevenLabs Ahmet + müzik jVVTd6dUhniCmeIi7rsV |
 | 2026-11-25 | 2026-11-25-2 (18:30, +YouTube) | YENİ FORMAT (12,7 sn) Gündem Efsane Cuma: "Cuma gecesi böyle mi arayacaksın?" — "instagramda gördüğüm yeşil lamba" → 0 sonuç ×5, saat 00:07, BULAMADIM → Satın Al kartı (alisveris-tr-dark kart-satin-al) | TR | ElevenLabs Cavit + müzik DtOagZRUiP1uLoN23BSy |
+| 2026-11-26 | 2026-11-26-1 (18:30, IG+TikTok+YouTube) | YENİ PLAN — SESLİ (9,3 sn), stil crayon-book. Gündem "İstanbul'a kar ne zaman yağacak?": kanca "Kar yağınca yaparım demiştin." → telefonda 2.418 ekran görüntüsü kayarken pencerede kardan adam eriyor → "Bulana kadar kar eridi." (su birikintisi + havuç) → gerçek ana sayfa (genel-tr-light ana-sayfa) → logo + rozetler | TR | ElevenLabs Deniz Sab (eleven_v4) · müzik: Opuscar sampler (ukulele FreePats CC0, glockenspiel VCSL CC0) + pluck.py (kontrbas pizz, müzik kutusu) · efekt: earshot (notify/single, whoosh, pencil/write, water/drop, error/fall, water/plop, notify/pop, purchase/chime, wind) |
 
-Yeni format (25 Kasım): 12–18 sn, 3–4 sahne, 0. karede `hook()` kanca kartı + hareket, uygulama ≤3 sn, kapanış `end_short()` 1,2 sn.
+Yeni plan (26 Kasım): günde 1 video, 7–12 sn, her gün farklı Lemo-Opuscar stili; Pzt/Çrş/Cum/Paz yazılı (yapay zekâ sesi/müziği yok), Sal/Prş/Cmt ElevenLabs sesli.
+
+Eski format (25 Kasım): 12–18 sn, 3–4 sahne, 0. karede `hook()` kanca kartı + hareket, uygulama ≤3 sn, kapanış `end_short()` 1,2 sn.
+
+## Stil log (Lemo-Opuscar; son 14 günde tekrar yok, ardışık iki gün aynı kategori yok)
+
+| Tarih | Video | Stil | Kategori | Yazılı/Sesli |
+|---|---|---|---|---|
+| 2026-11-26 | 2026-11-26-1 | crayon-book (Crayon Picture Book) | resim/illüstrasyon (çocuk kitabı) | sesli |
+
+Müzik/örnek kredileri (2026-11-26): Samples (CC0): FreePats project (freepats.zenvoid.org), Versilian Community Sample Library (Versilian Studios). Fontlar: Patrick Hand, Mali (OFL). Efektler: earshot (MIT, kodla sentez).
 
 ## Kaydırmalı log
 
@@ -36,13 +47,13 @@ Yeni format (25 Kasım): 12–18 sn, 3–4 sahne, 0. karede `hook()` kanca kart�
 | Ses | voice_id | Son kullanım |
 |---|---|---|
 | Deniz | KAGDtM2gzDrjWlUp2KNe | 2026-11-24 |
-| Deniz Sab | PNOYtBiXC3ciuXQCrLfL | 2026-11-24 |
+| Deniz Sab | PNOYtBiXC3ciuXQCrLfL | 2026-11-26 |
 | Cavit | lxZLq5dcyw12UangGJgN | 2026-11-25 |
 | Zuhal | Xen0soH4tcGo78ododZU | 2026-11-24 |
 | Ahmet | ZsYcqahfiS2dy4J6XYC5 | 2026-11-25 |
 | EN: Elena | w4DBBAtZhQtfCihqCw5b | 2026-11-23 |
 
-Günün son videosu 2026-11-25: Cavit → 26 Kasım ilk video Cavit ile başlamasın; öncelik Deniz, Deniz Sab, Zuhal. Bu hafta 1 EN video yapıldı (23 Kasım) — haftanın ikinci EN videosu 26–29 Kasım arasında.
+Son sesli gün 2026-11-26: Deniz Sab → bir sonraki sesli gün (Cmt 28 Kasım) öncelik Zuhal / Deniz (en uzun süredir kullanılmayan).
 
 ## Müzik kütüphanesi (ElevenLabs Music, telifsiz)
 

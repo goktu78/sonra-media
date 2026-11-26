@@ -22,8 +22,9 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | 2026-11-25 | 2026-11-25-1 (12:30) | YENİ FORMAT (14,8 sn) Mesajlaşma skeci: "Annenden kaç reel birikti?" — annemden sabah 06:12 reelleri, "Kaydettim anne" → 3 hafta sonra "O sütlacı yaptın mı?" → Yap kartı "5 malzemeli fırın sütlaç" → "Yaptım anne 📸" (yemek-tr-light kart-yap-2) | TR | ElevenLabs Ahmet + müzik jVVTd6dUhniCmeIi7rsV |
 | 2026-11-25 | 2026-11-25-2 (18:30, +YouTube) | YENİ FORMAT (12,7 sn) Gündem Efsane Cuma: "Cuma gecesi böyle mi arayacaksın?" — "instagramda gördüğüm yeşil lamba" → 0 sonuç ×5, saat 00:07, BULAMADIM → Satın Al kartı (alisveris-tr-dark kart-satin-al) | TR | ElevenLabs Cavit + müzik DtOagZRUiP1uLoN23BSy |
 | 2026-11-26 | 2026-11-26-1 (18:30, IG+TikTok+YouTube) | YENİ PLAN — SESLİ (9,3 sn), stil crayon-book. Gündem "İstanbul'a kar ne zaman yağacak?": kanca "Kar yağınca yaparım demiştin." → telefonda 2.418 ekran görüntüsü kayarken pencerede kardan adam eriyor → "Bulana kadar kar eridi." (su birikintisi + havuç) → gerçek ana sayfa (genel-tr-light ana-sayfa) → logo + rozetler | TR | ElevenLabs Deniz Sab (eleven_v4) · müzik: Opuscar sampler (ukulele FreePats CC0, glockenspiel VCSL CC0) + pluck.py (kontrbas pizz, müzik kutusu) · efekt: earshot (notify/single, whoosh, pencil/write, water/drop, error/fall, water/plop, notify/pop, purchase/chime, wind) |
+| 2026-11-26 | 2026-11-26-2 (12:30, IG+TikTok) | SESLİ (9,5 sn), stil pixel-rpg. Tanıdık an (öğle arası, 12:30'da yayında): kanca "15 dakikada ne izlenir?" → ofiste sandviç + ÖĞLE ARASI sayacı 15:00'ten akıyor → KAYDEDİLENLER (1.284) envanteri, imleç koşuyor, sonra kararsız → 01:00'de ekran sarsılıp griye dönüyor "İZLENEN: 0" → gerçek Keşfet (yemek-tr-dark kesfet, "15 dakikam var") → logo + rozetler, sayaç 15:00 (döngü) | TR | ElevenLabs Zuhal (eleven_v4) · müzik: Opuscar sampler (ksilofon, marimba, glockenspiel, woodblock, shaker — VCSL CC0) · efekt: earshot (notify/lift, slide/paper, toggle/down, error/double, heavy_drop/floor, swipe/flick, notify/pop, success/shutter) |
 
-Yeni plan (26 Kasım): günde 1 video, 7–12 sn, her gün farklı Lemo-Opuscar stili; Pzt/Çrş/Cum/Paz yazılı (yapay zekâ sesi/müziği yok), Sal/Prş/Cmt ElevenLabs sesli.
+Plan (26 Kasım, Göktuğ: "günlük 2 videoya çık"): günde 2 video — 12:30 IG+TikTok, 18:30 IG+TikTok+YouTube; 7–12 sn, her gün farklı Lemo-Opuscar stili; Pzt/Çrş/Cum/Paz yazılı (yapay zekâ sesi/müziği yok), Sal/Prş/Cmt ElevenLabs sesli.
 
 Eski format (25 Kasım): 12–18 sn, 3–4 sahne, 0. karede `hook()` kanca kartı + hareket, uygulama ≤3 sn, kapanış `end_short()` 1,2 sn.
 
@@ -31,9 +32,10 @@ Eski format (25 Kasım): 12–18 sn, 3–4 sahne, 0. karede `hook()` kanca kart�
 
 | Tarih | Video | Stil | Kategori | Yazılı/Sesli |
 |---|---|---|---|---|
+| 2026-11-26 | 2026-11-26-2 (12:30) | pixel-rpg (16-bit Pixel RPG) | oyun | sesli |
 | 2026-11-26 | 2026-11-26-1 | crayon-book (Crayon Picture Book) | resim/illüstrasyon (çocuk kitabı) | sesli |
 
-Müzik/örnek kredileri (2026-11-26): Samples (CC0): FreePats project (freepats.zenvoid.org), Versilian Community Sample Library (Versilian Studios). Fontlar: Patrick Hand, Mali (OFL). Efektler: earshot (MIT, kodla sentez).
+Müzik/örnek kredileri (2026-11-26; video 2 yalnız VCSL, fontlar Press Start 2P + Pixelify Sans OFL): Samples (CC0): FreePats project (freepats.zenvoid.org), Versilian Community Sample Library (Versilian Studios). Fontlar: Patrick Hand, Mali (OFL). Efektler: earshot (MIT, kodla sentez).
 
 ## Kaydırmalı log
 
@@ -49,11 +51,11 @@ Müzik/örnek kredileri (2026-11-26): Samples (CC0): FreePats project (freepats.
 | Deniz | KAGDtM2gzDrjWlUp2KNe | 2026-11-24 |
 | Deniz Sab | PNOYtBiXC3ciuXQCrLfL | 2026-11-26 |
 | Cavit | lxZLq5dcyw12UangGJgN | 2026-11-25 |
-| Zuhal | Xen0soH4tcGo78ododZU | 2026-11-24 |
+| Zuhal | Xen0soH4tcGo78ododZU | 2026-11-26 |
 | Ahmet | ZsYcqahfiS2dy4J6XYC5 | 2026-11-25 |
 | EN: Elena | w4DBBAtZhQtfCihqCw5b | 2026-11-23 |
 
-Son sesli gün 2026-11-26: Deniz Sab → bir sonraki sesli gün (Cmt 28 Kasım) öncelik Zuhal / Deniz (en uzun süredir kullanılmayan).
+Son sesli gün 2026-11-26: Zuhal (12:30) + Deniz Sab (18:30) → Cmt 28 Kasım öncelik Deniz + Ahmet ya da Cavit (en uzun süredir kullanılmayanlar).
 
 ## Müzik kütüphanesi (ElevenLabs Music, telifsiz)
 

@@ -23,6 +23,8 @@ sonra. tanıtım videoları ve sosyal medya görselleri.
 | 2026-11-25 | 2026-11-25-2 (18:30, +YouTube) | YENİ FORMAT (12,7 sn) Gündem Efsane Cuma: "Cuma gecesi böyle mi arayacaksın?" — "instagramda gördüğüm yeşil lamba" → 0 sonuç ×5, saat 00:07, BULAMADIM → Satın Al kartı (alisveris-tr-dark kart-satin-al) | TR | ElevenLabs Cavit + müzik DtOagZRUiP1uLoN23BSy |
 | 2026-11-26 | 2026-11-26-1 (18:30, IG+TikTok+YouTube) | YENİ PLAN — SESLİ (9,3 sn), stil crayon-book. Gündem "İstanbul'a kar ne zaman yağacak?": kanca "Kar yağınca yaparım demiştin." → telefonda 2.418 ekran görüntüsü kayarken pencerede kardan adam eriyor → "Bulana kadar kar eridi." (su birikintisi + havuç) → gerçek ana sayfa (genel-tr-light ana-sayfa) → logo + rozetler | TR | ElevenLabs Deniz Sab (eleven_v4) · müzik: Opuscar sampler (ukulele FreePats CC0, glockenspiel VCSL CC0) + pluck.py (kontrbas pizz, müzik kutusu) · efekt: earshot (notify/single, whoosh, pencil/write, water/drop, error/fall, water/plop, notify/pop, purchase/chime, wind) |
 | 2026-11-26 | 2026-11-26-2 (12:30, IG+TikTok) | SESLİ (9,5 sn), stil pixel-rpg. Tanıdık an (öğle arası, 12:30'da yayında): kanca "15 dakikada ne izlenir?" → ofiste sandviç + ÖĞLE ARASI sayacı 15:00'ten akıyor → KAYDEDİLENLER (1.284) envanteri, imleç koşuyor, sonra kararsız → 01:00'de ekran sarsılıp griye dönüyor "İZLENEN: 0" → gerçek Keşfet (yemek-tr-dark kesfet, "15 dakikam var") → logo + rozetler, sayaç 15:00 (döngü) | TR | ElevenLabs Zuhal (eleven_v4) · müzik: Opuscar sampler (ksilofon, marimba, glockenspiel, woodblock, shaker — VCSL CC0) · efekt: earshot (notify/lift, slide/paper, toggle/down, error/double, heavy_drop/floor, swipe/flick, notify/pop, success/shutter) |
+| 2026-11-28 | 2026-11-28-1 (12:30, IG+TikTok) | SESLİ (9,3 sn), stil midcentury-toon. Gündem: hafta sonu soğuk hava (Balkan soğukları, 28 Kasım hava haberleri). Kanca "Hafta sonu kahvaltıya gidecektin?" → elde telefon, "Kaydedilenler 18" kahvaltı resimleri, termometre çağrı dairesi 14°→0° → ekran buzlanıyor, telefon buz kalıbına dönüşüyor "BUZ GİBİ" → gerçek arama "kahvaltı" (yemek-tr-light arama-kahvaltı) → logo + rozetler | TR | ElevenLabs Deniz (eleven_v4) · müzik: Opuscar sampler cool-jazz (vibrafon, glockenspiel, kontrbas Sneakybass, shaker, snare taps, flüt — VCSL/VSCO2CE/Karoryfer CC0) · efekt: earshot (notify/pop, ice/cubes, ice/crack, glass/tap, bag/drop, swipe/hand, notify/single, purchase/chime) + kodla sentez slide-whistle ve rüzgâr |
+| 2026-11-28 | 2026-11-28-2 (18:30, IG+TikTok+YouTube) | SESLİ (9,5 sn), stil risograph. Gündem: Kasım bitiyor (Pazartesi 1 Aralık). Kanca "Kasım'da okurum demiştin." → duvar takvimi 28-29-30 yırtılıyor, sayfalar "OKUNACAK" yığınına uçuyor (47→63) → boş sayfa, sessizlik → pembe kalıp "1 ARALIK" basılıyor, damga "DEVREDİLDİ" → gerçek Oku kartı "Erteleme alışkanlığını kırmanın 5 küçük yolu" (genel-tr-dark kart-oku) → logo + rozetler | TR | ElevenLabs Ahmet (eleven_v4) · müzik: Opuscar sampler (naylon gitar FreePats, marimba/glockenspiel/woodblock/shaker/cajon VCSL, kontrbas Karoryfer — CC0) · efekt: earshot (paper/rip, next/page, stapler/desk, stamp/press, heavy_drop/floor, whoosh/stick, like/pop, success/triad) + kodla sentez baskı "shhk" |
 
 Plan (26 Kasım, Göktuğ: "günlük 2 videoya çık"): günde 2 video — 12:30 IG+TikTok, 18:30 IG+TikTok+YouTube; 7–12 sn, her gün farklı Lemo-Opuscar stili; Pzt/Çrş/Cum/Paz yazılı (yapay zekâ sesi/müziği yok), Sal/Prş/Cmt ElevenLabs sesli.
 
@@ -32,8 +34,12 @@ Eski format (25 Kasım): 12–18 sn, 3–4 sahne, 0. karede `hook()` kanca kart�
 
 | Tarih | Video | Stil | Kategori | Yazılı/Sesli |
 |---|---|---|---|---|
+| 2026-11-28 | 2026-11-28-2 (18:30) | risograph (Risograph Print) | baskı/printmaking | sesli |
+| 2026-11-28 | 2026-11-28-1 (12:30) | midcentury-toon (Mid-century Cartoon) | çizgi film | sesli |
 | 2026-11-26 | 2026-11-26-2 (12:30) | pixel-rpg (16-bit Pixel RPG) | oyun | sesli |
 | 2026-11-26 | 2026-11-26-1 | crayon-book (Crayon Picture Book) | resim/illüstrasyon (çocuk kitabı) | sesli |
+
+Müzik/örnek kredileri (2026-11-28): Samples (CC0): Versilian Community Sample Library & VS Chamber Orchestra: Community Edition (Versilian Studios), Karoryfer Samples / sfzinstruments, FreePats project (freepats.zenvoid.org). Fontlar (OFL): Alfa Slab One, Jost, Bricolage Grotesque. Efektler: earshot (MIT) + kodla sentez.
 
 Müzik/örnek kredileri (2026-11-26; video 2 yalnız VCSL, fontlar Press Start 2P + Pixelify Sans OFL): Samples (CC0): FreePats project (freepats.zenvoid.org), Versilian Community Sample Library (Versilian Studios). Fontlar: Patrick Hand, Mali (OFL). Efektler: earshot (MIT, kodla sentez).
 
@@ -48,14 +54,14 @@ Müzik/örnek kredileri (2026-11-26; video 2 yalnız VCSL, fontlar Press Start 2
 
 | Ses | voice_id | Son kullanım |
 |---|---|---|
-| Deniz | KAGDtM2gzDrjWlUp2KNe | 2026-11-24 |
+| Deniz | KAGDtM2gzDrjWlUp2KNe | 2026-11-28 |
 | Deniz Sab | PNOYtBiXC3ciuXQCrLfL | 2026-11-26 |
 | Cavit | lxZLq5dcyw12UangGJgN | 2026-11-25 |
 | Zuhal | Xen0soH4tcGo78ododZU | 2026-11-26 |
-| Ahmet | ZsYcqahfiS2dy4J6XYC5 | 2026-11-25 |
+| Ahmet | ZsYcqahfiS2dy4J6XYC5 | 2026-11-28 |
 | EN: Elena | w4DBBAtZhQtfCihqCw5b | 2026-11-23 |
 
-Son sesli gün 2026-11-26: Zuhal (12:30) + Deniz Sab (18:30) → Cmt 28 Kasım öncelik Deniz + Ahmet ya da Cavit (en uzun süredir kullanılmayanlar).
+Son sesli gün 2026-11-28: Deniz (12:30) + Ahmet (18:30) → Salı 1 Aralık öncelik Cavit + Zuhal ya da Deniz Sab (en uzun süredir kullanılmayanlar). Not: 27 Kasım'da paylaşım yapılmadı (o günün çalışması depoya/Buffer'a hiçbir şey bırakmadı).
 
 ## Müzik kütüphanesi (ElevenLabs Music, telifsiz)
 
